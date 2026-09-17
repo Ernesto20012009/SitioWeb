@@ -1,2 +1,2 @@
-alert("Funciona");
+alert("Funciona bien");
 console.log("Hola");
